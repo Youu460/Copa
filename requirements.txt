@@ -30,7 +30,7 @@ ujson
 wget
 pytz
 aiohttp
-aiohttp==3.8.3
+git+https://github.com/agronholm/anyio
 gunicorn==20.1.0
 werkzeug==2.0.2
 Flask
